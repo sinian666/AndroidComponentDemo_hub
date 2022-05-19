@@ -1,0 +1,4 @@
+rootProject.name = "MarsComponentDemo"
+include ':app'
+include ':lib_androids'
+include ':Zcldev'
