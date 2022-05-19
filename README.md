@@ -1,1 +1,2 @@
 # AndroidComponentDemo_hub
+#当前的master分支为可升级组件的测试分支，dev分支相关内容需要进行修改
