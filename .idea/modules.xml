@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarsComponentDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MarsComponentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zcldev/MarsComponentDemo.Zcldev.iml" filepath="$PROJECT_DIR$/.idea/modules/Zcldev/MarsComponentDemo.Zcldev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarsComponentDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarsComponentDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_androids/MarsComponentDemo.lib_androids.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_androids/MarsComponentDemo.lib_androids.iml" />
+    </modules>
+  </component>
+</project>
